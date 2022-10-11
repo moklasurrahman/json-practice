@@ -1,0 +1,94 @@
+{
+    "students": [
+        {
+            "name": "Moklasur rahman",
+            "middelname": null,
+            "age": 31,
+            "cgpa": 3.44,
+            "isRegistered": true,
+            "languages": [
+                "Bengali",
+                "English",
+                "Hindi"
+            ],
+            "friends": [
+                {
+                    "name": "paki",
+                    "age": 25
+                },
+                {
+                    "name": "chaki",
+                    "age": 30
+                }
+            ]
+        },
+        {
+            "name": "beguni",
+            "middelname": null,
+            "age": 31,
+            "cgpa": 3.44,
+            "isRegistered": true,
+            "languages": [
+                "Bengali",
+                "English",
+                "Hindi"
+            ],
+            "friends": [
+                {
+                    "name": "chagi",
+                    "age": 25
+                },
+                {
+                    "name": "monani",
+                    "age": 30
+                }
+            ]
+        }
+    ],
+    "std": [
+        {
+            "name": "Moklasur rahman",
+            "middelname": null,
+            "age": 31,
+            "cgpa": 3.44,
+            "isRegistered": true,
+            "languages": [
+                "Bengali",
+                "English",
+                "Hindi"
+            ],
+            "friends": [
+                {
+                    "name": "paki",
+                    "age": 25
+                },
+                {
+                    "name": "chaki",
+                    "age": 30
+                }
+            ]
+        },
+        {
+            "name": "beguni",
+            "middelname": null,
+            "age": 31,
+            "cgpa": 3.44,
+            "isRegistered": true,
+            "languages": [
+                "Bengali",
+                "English",
+                "Hindi"
+            ],
+            "friends": [
+                {
+                    "name": "chagi",
+                    "age": 25
+                },
+                {
+                    "name": "monani",
+                    "age": 30
+                }
+            ]
+        }
+    ]
+}
